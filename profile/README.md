@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HBANK-Org/.github/main/profile/hbvnk-wordmark-dark.png"/>
-    <img src="https://raw.githubusercontent.com/HBANK-Org/.github/main/profile/hbvnk-wordmark-light.png" alt="HBVNK" width="320"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HBVNK/.github/main/profile/hbvnk-wordmark-dark.png"/>
+    <img src="https://raw.githubusercontent.com/HBVNK/.github/main/profile/hbvnk-wordmark-light.png" alt="HBVNK" width="320"/>
   </picture>
 </p>
 
